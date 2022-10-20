@@ -1,0 +1,36 @@
+#container{
+    background-color: aqua; 
+ }
+ .class{
+     background-color: bisque;
+ }
+ #col1{
+     background-color: rgb(60, 255, 0);
+     border: 4px solid white;
+     height: 50px;
+ }
+ #col2{
+     background-color: rgb(255, 0, 0);
+     border: 4px solid white;
+     height: 100px;
+ }
+ #col3{
+     background-color: rgb(255, 0, 0);
+     border: 4px solid white;
+     height: 100px;
+ }
+ #col4{
+     background-color: rgb(255, 0, 0);
+     border: 4px solid white;
+     height: 100px;
+ }
+ #col5{
+     background-color: rgb(238, 255, 0);
+     border: 4px solid white;
+     height: 30px;
+ }
+ #col6{
+     background-color: rgb(238, 255, 0);
+     border: 4px solid white;
+     height: 30px;
+ }
